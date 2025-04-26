@@ -3,7 +3,6 @@
 ## 🌍 About Me
 
 I'm a research-driven contributor with a strong interest in open-source ecosystems, digital identity, and decentralized governance.  
-I’m currently a **DRep (Delegated Representative) on Cardano**, actively participating in governance decisions, and I’m also on the path to becoming a **Stake Pool Operator (SPO)**.
 
 I speak **French**, **English**, and **Russian**, and I’m passionate about making blockchain technologies more accessible and transparent for everyone.
 
