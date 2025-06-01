@@ -8,8 +8,8 @@ I speak **French**, **English**, and **Russian**, and I’m passionate about mak
 
 ## 🔧 Tech & Tools
 
-- 💻 Main language: **Python**
-- 🚧 Currently learning: **Rust**, **TypeScript**, **Haskell**
+- 💻 Main languages: **Python**, **Aiken**
+- 🚧 Currently learning: **Rust**, **TypeScript**
 
 ## 💡 Interests
 
@@ -20,7 +20,7 @@ I speak **French**, **English**, and **Russian**, and I’m passionate about mak
 
 ## 🛠 Ongoing Goals
 
-- Continue contributing as a **DRep** to Cardano’s governance
+- Contributing as a **DRep** to Cardano’s governance
 - Launch and operate a secure and reliable **Cardano stake pool**
 - Build tools that empower users and promote ecosystem resilience
 
