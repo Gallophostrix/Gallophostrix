@@ -8,8 +8,8 @@ I speak **French**, **English**, and **Russian**, and I’m passionate about mak
 
 ## 🔧 Tech & Tools
 
-- 💻 Main languages: **Python**, **Aiken**
-- 🚧 Currently learning: **Rust**, **TypeScript**
+- 💻 Main languages: **Python**
+- 🚧 Currently learning: **Rust**, **Aiken**, **TypeScript**
 
 ## 💡 Interests
 
@@ -17,6 +17,7 @@ I speak **French**, **English**, and **Russian**, and I’m passionate about mak
 - Decentralized identity (DIDs), zero-knowledge proofs, and privacy tech
 - Secure infrastructure, staking, and protocol-level tools
 - Long-term sustainability and open collaboration models
+- Open-source tools/apps
 
 ## 🛠 Ongoing Goals
 
@@ -26,5 +27,5 @@ I speak **French**, **English**, and **Russian**, and I’m passionate about mak
 
 ## 🤝 Let’s Connect
 
-Always open to collaboration and discussions around governance, infrastructure, and technical tooling on Cardano and beyond. I'm also looking forward learning as much as possible!
+Always open to collaboration and discussions around governance, infrastructure, and technical tooling. I'm also looking forward learning as much as possible!
 Thanks for stopping by!
